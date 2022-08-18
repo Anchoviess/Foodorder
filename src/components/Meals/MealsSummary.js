@@ -6,12 +6,12 @@ const MealsSummary = () => {
 <section className={classes.summary}>
       <h2>Delicious Food That i like to eat personally...</h2>
       <p>
-        Choose my favorite meal from our broad selection of available meals
-        and enjoy a delicious lunch or dinner from the comfort of you imagination.
+        Choose my favorite meal from the broad selection of available meals
+        and enjoy a delicious lunch or dinner from the comfort of your imagination.
       </p>
       <p>
-        All our meals are cooked with high-quality ingredients, just-in-time and
-        of course by experienced chefs!
+        All my meals are cooked with high-quality ingredients, just-in-time and
+        of course by experienced chefs. I am that chef.
       </p>
     </section>
     );
