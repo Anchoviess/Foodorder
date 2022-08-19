@@ -19,7 +19,7 @@ const hideCartHandler = () => {
     <Fragment>
       {cartIsShown && <Cart />}
       <Cart/>
-      <Header/>
+      <Header onShownCart={showCartHandler} />
       
       <main>
         <Meals/>
